@@ -89,7 +89,7 @@ Zone-Las Vegas(us-west4-b)
 - Srikar Tenneti-Leader,Developer,UI/UX Designer -[GitHub](https://github.com/tinkten7)  - [LinkedIn](https://www.linkedin.com/in/srikar-tenneti-849522235/)
 
 ---
-- Sriraj Tata-Founder,Developer,Cloud Operator,Tester -[GitHub](https://github.com/STRIDER1512)    - [LinkedIn](https://www.linkedin.com/in/sriraj-tata-0499b7228/)
+- Sriraj Tata-Founder,Developer,Cloud Developer,Tester -[GitHub](https://github.com/STRIDER1512)    - [LinkedIn](https://www.linkedin.com/in/sriraj-tata-0499b7228/)
 
 ---
 - Sudhish Amiti-Member,Developer,Backend Developer -[LinkedIn](https://www.linkedin.com/in/sudhish-amiti-491805224/)
